@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/mramprasad007/mramprasad007/main/gitHub-banner.jpg"/>
+<img src="https://raw.githubusercontent.com/mramprasad007/mramprasad007/main/github-banner.jpg"/>
 <hr></hr>
 <p align="center">
   <samp>
